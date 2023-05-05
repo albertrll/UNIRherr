@@ -97,7 +97,7 @@
     "Salario_medio":" 27.958,8 €"
   },
   {
-    "Provincia": "Barcelona",
+    "name": "Barcelona",
     "% de voto": 16.31,
     "Partido Mayoritario": "En Comú Podem",
     "mediaAutoubicacion":3.14,
