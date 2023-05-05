@@ -1,6 +1,6 @@
 [
   {
-    "Provincia": "Santa Cruz de Tenerife",
+    "name": "Santa Cruz de Tenerife",
     "% de voto": 19.91,
     "Partido Mayoritario": "CC",
     "mediaAutoubicacion":5.38,
@@ -8,7 +8,7 @@
     "Salario_medio": "20.402,4 €"
   },
   {
-    "Provincia": "Ávila",
+    "name": "Ávila",
     "% de voto": 18.71,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
@@ -16,7 +16,7 @@
     "Salario_medio":" 19.788 €"
   },
   {
-    "Provincia": "Cáceres",
+    "name": "Cáceres",
     "% de voto": 17.07,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
@@ -24,7 +24,7 @@
     "Salario_medio":" 19.455,6 €"
   },
   {
-    "Provincia": "Guadalajara",
+    "name": "Guadalajara",
     "% de voto": 18.79,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
@@ -32,7 +32,7 @@
     "Salario_medio":" 22.292,4 €"
   },
   {
-    "Provincia": "Huesca",
+    "name": "Huesca",
     "% de voto": 19.61,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
@@ -40,7 +40,7 @@
     "Salario_medio":" 21.397,2 €"
   },
   {
-    "Provincia": "Palencia",
+    "name": "Palencia",
     "% de voto": 15.88,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
@@ -49,7 +49,7 @@
 
   },
   {
-    "Provincia": "Segovia",
+    "name": "Segovia",
     "% de voto": 19.96,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
