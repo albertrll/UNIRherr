@@ -57,7 +57,7 @@
     "Salario_medio":" 20.205,6€"
   },
   {
-    "Provincia": "Teruel",
+    "name": "Teruel",
     "% de voto": 19.67,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
@@ -65,7 +65,7 @@
     "Salario_medio":" 21376.8€"
   },
   {
-    "Provincia": "Valencia",
+    "name": "Valencia",
     "% de voto": 17.46,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
@@ -73,7 +73,7 @@
     "Salario_medio":" 21.840 €"
   },
   {
-    "Provincia": "Zamora",
+    "name": "Zamora",
     "% de voto": 16.93,
     "Partido Mayoritario": "Cs",
     "mediaAutoubicacion":5.25,
@@ -81,7 +81,7 @@
     "Salario_medio":" 19.826,4 €"
   },
   {
-    "Provincia": "Alava",
+    "name": "Alava",
     "% de voto": 13.95,
     "Partido Mayoritario": "EH Bildu",
     "mediaAutoubicacion":2.49,
@@ -89,7 +89,7 @@
     "Salario_medio":" 28.065,6 €"
   },
   {
-    "Provincia": "Gipuzkoa",
+    "name": "Gipuzkoa",
     "% de voto": 23.38,
     "Partido Mayoritario": "EH Bildu",
     "mediaAutoubicacion":2.49,
@@ -105,7 +105,7 @@
     "Salario_medio":" 25.579,2 €"
   },
   {
-    "Provincia": "Tarragona",
+    "name": "Tarragona",
     "% de voto": 12.19,
     "Partido Mayoritario": "En Comú Podem",
     "mediaAutoubicacion":3.14,
@@ -113,7 +113,7 @@
     "Salario_medio":" 22.666,8 €"
   },
   {
-    "Provincia": "Girona",
+    "name": "Girona",
     "% de voto": 29.83,
     "Partido Mayoritario": "ERC",
     "mediaAutoubicacion":2.92,
@@ -121,7 +121,7 @@
     "Salario_medio":" 21.668,4 €"
   },
   {
-    "Provincia": "A Coruña",
+    "name": "A Coruña",
     "% de voto": 25.51,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -129,7 +129,7 @@
     "Salario_medio":" 22.176 €"
   },
   {
-    "Provincia": "Alicante",
+    "name": "Alicante",
     "% de voto": 19.52,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -137,7 +137,7 @@
     "Salario_medio":" 19.636,8 €"
   },
   {
-    "Provincia": "Almería",
+    "name": "Almería",
     "% de voto": 22.54,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -145,7 +145,7 @@
     "Salario_medio":" 19.671,6 €"
   },
   {
-    "Provincia": "Las Palmas",
+    "name": "Las Palmas",
     "% de voto": 16.2,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -153,7 +153,7 @@
     "Salario_medio":" 20.720,4 €"
   },
   {
-    "Provincia": "Melilla",
+    "name": "Melilla",
     "% de voto": 23.96,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -161,7 +161,7 @@
     "Salario_medio":" 22.566 €"
   },
   {
-    "Provincia": "Salamanca",
+    "name": "Salamanca",
     "% de voto": 28.56,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -169,7 +169,7 @@
     "Salario_medio":" 20.388 €"
   },
   {
-    "Provincia": "Sevilla",
+    "name": "Sevilla",
     "% de voto": 14.51,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -177,7 +177,7 @@
     "Salario_medio":" 21.121,2 €"
   },
   {
-    "Provincia": "Soria",
+    "name": "Soria",
     "% de voto": 26.67,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -185,7 +185,7 @@
     "Salario_medio":" 21.927,6 €"
   },
   {
-    "Provincia": "Toledo",
+    "name": "Toledo",
     "% de voto": 21.95,
     "Partido Mayoritario": "PP",
     "mediaAutoubicacion":7.09,
@@ -193,7 +193,7 @@
     "Salario_medio":" 21.177.6 €"
   },
   {
-    "Provincia": "Albacete",
+    "name": "Albacete",
     "% de voto": 32,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -201,7 +201,7 @@
     "Salario_medio":" 20.944,8 €"
   },
   {
-    "Provincia": "Asturias",
+    "name": "Asturias",
     "% de voto": 33.13,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -209,7 +209,7 @@
     "Salario_medio":" 23.020,8 €"
   },
   {
-    "Provincia": "Burgos",
+    "name": "Burgos",
     "% de voto": 29.28,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -217,7 +217,7 @@
     "Salario_medio":" 23.478 €"
   },
   {
-    "Provincia": "Cantabria",
+    "name": "Cantabria",
     "% de voto": 25.21,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -225,7 +225,7 @@
     "Salario_medio":" 21.915,6 €"
   },
   {
-    "Provincia": "Ceuta",
+    "name": "Ceuta",
     "% de voto": 36.32,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -233,7 +233,7 @@
     "Salario_medio":" 24.421,2 €"
   },
   {
-    "Provincia": "Cuenca",
+    "name": "Cuenca",
     "% de voto": 35.68,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -241,7 +241,7 @@
     "Salario_medio":" 19.972,8 €"
   },
   {
-    "Provincia": "Granada",
+    "name": "Granada",
     "% de voto": 33.88,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -249,7 +249,7 @@
     "Salario_medio":" 20.751,6 €"
   },
   {
-    "Provincia": "Baleares",
+    "name": "Baleares",
     "% de voto": 26.36,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -257,7 +257,7 @@
     "Salario_medio":" 22.861,2 €"
   },
   {
-    "Provincia": "Jaén",
+    "name": "Jaén",
     "% de voto": 39.53,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -265,7 +265,7 @@
     "Salario_medio":" 19.848 €"
   },
   {
-    "Provincia": "La Rioja",
+    "name": "La Rioja",
     "% de voto": 31.69,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -273,7 +273,7 @@
     "Salario_medio":" 22.202,4 €"
   },
   {
-    "Provincia": "León",
+    "name": "León",
     "% de voto": 32.76,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -281,7 +281,7 @@
     "Salario_medio":" 20.912,4 €"
   },
   {
-    "Provincia": "Lleida",
+    "name": "Lleida",
     "% de voto": 16.68,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -289,7 +289,7 @@
     "Salario_medio":" 21.679,2 €"
   },
   {
-    "Provincia": "Lugo",
+    "name": "Lugo",
     "% de voto": 33.22,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -297,7 +297,7 @@
     "Salario_medio":" 20.439,6 €"
   },
   {
-    "Provincia": "Madrid",
+    "name": "Madrid",
     "% de voto": 27.27,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -305,7 +305,7 @@
     "Salario_medio":" 25.791,6 €"
   },
   {
-    "Provincia": "Murcia",
+    "name": "Murcia",
     "% de voto": 24.77,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -313,7 +313,7 @@
     "Salario_medio":" 20.632,8 €"
   },
   {
-    "Provincia": "Navarra",
+    "name": "Navarra",
     "% de voto": 25.76,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -321,7 +321,7 @@
     "Salario_medio":" 25.956 €"
   },
   {
-    "Provincia": "Ourense",
+    "name": "Ourense",
     "% de voto": 32.88,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -329,7 +329,7 @@
     "Salario_medio":" 20.364 €"
   },
   {
-    "Provincia": "Pontevedra",
+    "name": "Pontevedra",
     "% de voto": 32.24,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -337,7 +337,7 @@
     "Salario_medio":" 20.805,6 €"
   },
   {
-    "Provincia": "Zaragoza",
+    "name": "Zaragoza",
     "% de voto": 31.3,
     "Partido Mayoritario": "PSOE",
     "mediaAutoubicacion":3.81,
@@ -345,7 +345,7 @@
     "Salario_medio":" 23.186,4 €"
   },
   {
-    "Provincia": "Cádiz",
+    "name": "Cádiz",
     "% de voto": 16.6,
     "Partido Mayoritario": "Unidas Podemos",
     "mediaAutoubicacion":3.14,
@@ -353,7 +353,7 @@
     "Salario_medio":" 20.209,2 €"
   },
   {
-    "Provincia": "Castellón",
+    "name": "Castellón",
     "% de voto": 13.93,
     "Partido Mayoritario": "Unidas Podemos",
     "mediaAutoubicacion":3.14,
@@ -361,7 +361,7 @@
     "Salario_medio":" 21.945,6 €"
   },
   {
-    "Provincia": "Huelva",
+    "name": "Huelva",
     "% de voto": 13,
     "Partido Mayoritario": "Unidas Podemos",
     "mediaAutoubicacion":3.14,
@@ -369,7 +369,7 @@
     "Salario_medio":" 20.232 €"
   },
   {
-    "Provincia": "Málaga",
+    "name": "Málaga",
     "% de voto": 14.51,
     "Partido Mayoritario": "Unidas Podemos",
     "mediaAutoubicacion":3.14,
@@ -377,7 +377,7 @@
     "Salario_medio":" 20.426,4 €"
   },
   {
-    "Provincia": "Bizkaia",
+    "name": "Bizkaia",
     "% de voto": 17.72,
     "Partido Mayoritario": "Unidas Podemos",
     "mediaAutoubicacion":3.14,
@@ -385,7 +385,7 @@
     "Salario_medio":" 27.625,2 €"
   },
   {
-    "Provincia": "Badajoz",
+    "name": "Badajoz",
     "% de voto": 10.99,
     "Partido Mayoritario": "Vox",
     "mediaAutoubicacion":7.73,
@@ -393,7 +393,7 @@
     "Salario_medio":" 19.088,4 €"
   },
   {
-    "Provincia": "Ciudad Real",
+    "name": "Ciudad Real",
     "% de voto": 13.72,
     "Partido Mayoritario": "Vox",
     "mediaAutoubicacion":7.73,
@@ -401,7 +401,7 @@
     "Salario_medio":" 21.223,2 €"
   },
   {
-    "Provincia": "Córdoba",
+    "name": "Córdoba",
     "% de voto": 12.02,
     "Partido Mayoritario": "Vox",
     "mediaAutoubicacion":7.73,
@@ -409,7 +409,7 @@
     "Salario_medio":" 20.156,4 €"
   },
   {
-    "Provincia": "Valladolid",
+    "name": "Valladolid",
     "% de voto": 13.66,
     "Partido Mayoritario": "Vox",
     "mediaAutoubicacion":7.73,
